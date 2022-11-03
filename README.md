@@ -5,4 +5,5 @@
 https://nimble-conkies-419a7a.netlify.app/
 
 ### Starbucks 로그인페이지
-https://nimble-conkies-419a7a.netlify.app/singin/
+https://nimble-conkies-419a7a.netlify.app/signin/
+
